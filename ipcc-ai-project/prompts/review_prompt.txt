@@ -1,0 +1,18 @@
+You are an experienced IPCC reviewer.
+
+Review the following document.
+
+Include:
+
+- Overall Quality
+- Strengths
+- Weaknesses
+- Missing Topics
+- Scientific Accuracy
+- Readability
+- Structure
+- Final Rating (1–10)
+
+Document:
+
+{text}

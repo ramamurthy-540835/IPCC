@@ -1,0 +1,6 @@
+[
+  {"name": "id", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "document_name", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "chunk_index", "type": "INTEGER", "mode": "REQUIRED"},
+  {"name": "embedding", "type": "FLOAT", "mode": "REPEATED"}
+]
